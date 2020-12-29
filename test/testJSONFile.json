@@ -1,0 +1,13 @@
+[
+    {
+        "id": "tar",
+        "keywords": ["压缩", "tar"],
+        "description": "通常用来压缩/解压文件",
+        "examples": [
+            {
+                "description": "压缩一系列文件到同一压缩文件",
+                "command": "tar cf <filename.tar> file1 file2 file3"
+            }
+        ]
+    }
+]

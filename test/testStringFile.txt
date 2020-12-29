@@ -1,0 +1,1 @@
+[{"id": "tar","keywords": ["压缩", "tar"],"commands": [{"description": "压缩一系列文件到同一压缩文件","command": "tar cf <filename.tar> file1 file2 file3"}]}]
